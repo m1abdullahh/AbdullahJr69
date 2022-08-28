@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahJr69
 - 👀 Interests consist of mainly JavaScript, ❤️, Flutter 💞, and sometimes, Web App designing gets me as well. 😁
-- 🌱 NodeJS is the king and always will be. (Looking at you, Deno 🧐), also Bun is good, too.
+- 🌱 NodeJS is the king and always will be. (Looking at you, Deno 🧐), also, Bun is good, too.
 - 💞️ Back-end development is sometimes more enjoying than front-end.
 
 <!---
