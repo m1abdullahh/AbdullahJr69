@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdullahJr69
-- 👀 I’m interested in Python, JavaScript, NodeJS, Machine Learning and relevant stuff.
-- 🌱 I’m currently learning NodeJS (currently using Express) to do interesting things.
-- 💞️ I’m looking to collaborate on projects that deal with APIs and Machine Learning.
+- 👀 Interests consist of mainly JavaScript, ❤️, Flutter 💞, and sometimes, Web App designing gets me as well. 😁
+- 🌱 NodeJS is the king and always will be. (Looking at you, Deno 🧐), also Bun is good, too.
+- 💞️ Back-end development is sometimes more enjoying than front-end.
 
 <!---
 AbdullahJr69/AbdullahJr69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
